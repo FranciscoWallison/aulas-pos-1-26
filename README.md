@@ -1,3 +1,7 @@
+# LINK DA AULA 07 - 03 https://prod.liveshare.vsengsaas.visualstudio.com/join?6C215D71F46140C54E2476A610FBA9CBA32F
+
+
+
 # Aulas Pós-Graduação — Next.js
 
 ## Introdução
